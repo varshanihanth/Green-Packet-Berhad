@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73914" started-at="2019-11-25T10:06:44Z" finished-at="2019-11-25T10:07:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73914" started-at="2019-11-25T10:06:44Z" finished-at="2019-11-25T10:07:58Z">
+      <class name="com.Selfdrvn.myAppiumProject.AppTest">
+        <test-method status="PASS" signature="setupAppium()[pri:0, instance:com.Selfdrvn.myAppiumProject.AppTest@e874448]" name="setupAppium" is-config="true" duration-ms="45149" started-at="2019-11-25T10:05:59Z" finished-at="2019-11-25T10:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAppium -->
+        <test-method status="PASS" signature="myFirstTest()[pri:0, instance:com.Selfdrvn.myAppiumProject.AppTest@e874448]" name="myFirstTest" duration-ms="73870" started-at="2019-11-25T10:06:45Z" finished-at="2019-11-25T10:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+      </class> <!-- com.Selfdrvn.myAppiumProject.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
